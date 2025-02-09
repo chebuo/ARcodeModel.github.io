@@ -13,7 +13,7 @@ const createPlaces = ({ latitude, longitude }) => [
   
   const models = [
     {
-      url: '#asset-eevee',
+      url: 'animated-asset',
       scale: ['0.5', '0.5', '0.5'],
     },
   ];
